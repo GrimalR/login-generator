@@ -7,7 +7,7 @@ import java.util.List;
 
 
 /**
- * Classe de service permettant la gestion des login
+ * Classe de service permettant la gestion des loginzz
  */
 public class LoginService {
 
