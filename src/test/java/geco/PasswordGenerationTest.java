@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 
 public class PasswordGenerationTest {
 
-    PasswordGeneration passwordGen;
+    private PasswordGeneration passwordGen;
 
     @Before
     public void setUp() {
